@@ -31,7 +31,7 @@
 
     <h2>More About Me</h2>    
     <details>
-        <summary>My Childhood</summary>
+        <summary>My Interest</summary>
         <p>Optimisizism in Networkng allowed me to pursue my dream and given the right opportunity I will achieve.</p>
     </details>
 
