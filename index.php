@@ -17,10 +17,10 @@
     <h2>Favorite Foods</h2>
 
     <ul>
-        <li>Fruit</li>
-        <li>Mango</li>
         <li>Beans</li>
-        <li>Orange</li>
+        <li>Mango</li>
+        <li>Juice</li>
+        <li>Fruit</li>
     </ul>
 
     <h2>Achievements</h2>    
@@ -29,10 +29,10 @@
     <h4>Progress in the Specification Capstone (20%) <progress id="file" value="20" max="100"> 20% </progress></h4>
     <h4>Progress in Networking (90%) <progress id="file" value="90" max="100"> 90% </progress></h4>
 
-    <h2>More About Me</h2>    
+    <h1>More About Me</h1>    
     <details>
         <summary>My Interest</summary>
-        <p>Optimisizism in Networkng allowed me to pursue my dream and given the right opportunity I will achieve.</p>
+        <p>Networking is my ambition and I will pursue it.</p>
     </details>
 
     <p>
